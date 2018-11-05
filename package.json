@@ -1,0 +1,15 @@
+{
+  "name": "face",
+  "version": "1.0.0",
+  "main": "demo.js",
+  "scripts": {
+    "run": "node verify.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
